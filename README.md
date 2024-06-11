@@ -1,4 +1,4 @@
-# NEAT-AMBIENCE Project
+# Data management for drug efficiency prediction and decision making
 
 In the NEAT-AMBIENCE project, we address the development of novel and appropriate data management techniques to assist citizens in their daily lives. One of our use cases is related to the health area. Here, we focus on the problem of predicting the efficacy of drugs.
 
@@ -30,7 +30,6 @@ TBC
 ![Project PID2020-113037RB-I00 funded by MICIU/AEI/10.13039/501100011033](/images/NEAT-AMBIENCE-funder.png)
 
 ![COSMOS Logo](/images/cosmos-logo.png)
-![TrafficDator Logo](/images/TrafficDator-logo.png)
 
 
 
