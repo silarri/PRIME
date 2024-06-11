@@ -23,7 +23,7 @@ TBC
 ## Acknowledgment
 
 - Roberto García Peña (student at the University of Zaragoza) developed the related TFG "Management and analysis of drug outcome data for patients with infections", supervised by David Ojeda (NTT Data) and Sergio Ilarri.
-- 
+
 ## Logos
 
 ![NEAT-AMBIENCE Logo](/images/NEAT-AMBIENCE-logo.png)
