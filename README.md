@@ -27,8 +27,10 @@ TBC
 ## Logos
 
 ![NEAT-AMBIENCE Logo](/images/NEAT-AMBIENCE-logo.png)
-![Funded by PID2020-113037RB-I00 / AEI / 10.13039/501100011033](/images/NEAT-AMBIENCE-funder.png)
+![Project PID2020-113037RB-I00 funded by MICIU/AEI/10.13039/501100011033](/images/NEAT-AMBIENCE-funder.png)
 
 ![COSMOS Logo](/images/cosmos-logo.png)
+![TrafficDator Logo](/images/TrafficDator-logo.png)
+
 
 
