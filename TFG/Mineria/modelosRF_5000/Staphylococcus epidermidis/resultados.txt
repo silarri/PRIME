@@ -1,0 +1,30 @@
+Penicilina, modelo_Penicilina.joblib, 0.9692307692307692, 322
+Pristinamicina, modelo_Pristinamicina.joblib, 1.0, 48
+Ampicilina, modelo_Ampicilina.joblib, 0.9, 48
+Amoxicilina/Ac. clavulánico, modelo_AmoxicilinaAc_clavulánico.joblib, 0.9384615384615385, 322
+Ceftarolina, modelo_Ceftarolina.joblib, 1.0, 53
+Imipenem, modelo_Imipenem.joblib, 0.9, 48
+Oxacilina, modelo_Oxacilina.joblib, 0.9076923076923077, 322
+Vancomicina, modelo_Vancomicina.joblib, 1.0, 322
+Daptomicina, modelo_Daptomicina.joblib, 1.0, 322
+Linezolid, modelo_Linezolid.joblib, 0.6, 322
+Eritromicina, modelo_Eritromicina.joblib, 0.9076923076923077, 322
+Clindamicina, modelo_Clindamicina.joblib, 0.676923076923077, 322
+Tetraciclina, modelo_Tetraciclina.joblib, 0.3384615384615385, 322
+Minociclina, modelo_Minociclina.joblib, 1.0, 48
+Gentamicina, modelo_Gentamicina.joblib, 0.6923076923076923, 322
+Tobramicina, modelo_Tobramicina.joblib, 0.676923076923077, 322
+Amikacina, modelo_Amikacina.joblib, 0.676923076923077, 322
+Cloramfenicol, modelo_Cloramfenicol.joblib, 1.0, 48
+Rifampicina, modelo_Rifampicina.joblib, 0.5692307692307692, 322
+Fosfomicina, modelo_Fosfomicina.joblib, 0.8615384615384616, 322
+Trimetoprim/Sulfametoxazol, modelo_TrimetoprimSulfametoxazol.joblib, 0.36666666666666664, 296
+Ac. Fusidico, modelo_Ac_Fusidico.joblib, 0.4461538461538462, 322
+Mupirocina, modelo_Mupirocina.joblib, 0.5789473684210527, 281
+Ciprofloxacino, modelo_Ciprofloxacino.joblib, 0.8153846153846154, 322
+Levofloxacina, modelo_Levofloxacina.joblib, 0.8153846153846154, 322
+Norfloxacina, modelo_Norfloxacina.joblib, 1.0, 44
+Moxifloxacina, modelo_Moxifloxacina.joblib, 1.0, 48
+Screening de Cefoxitina, modelo_Screening_de_Cefoxitina.joblib, 0.6307692307692307, 322
+Inducción Clindamicina, modelo_Inducción_Clindamicina.joblib, 0.75, 79
+Synercid, modelo_Synercid.joblib, 1.0, 48
