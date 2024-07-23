@@ -17,10 +17,10 @@ In the NEAT-AMBIENCE project, we address the development of novel and appropriat
 
 ## Logos
 
-![NEAT-AMBIENCE Logo](/images/NEAT-AMBIENCE-logo.png)
-![Project PID2020-113037RB-I00 funded by MICIU/AEI/10.13039/501100011033](/images/NEAT-AMBIENCE-funder.png)
+<img src="/images/NEAT-AMBIENCE-logo.png" width="30%"> <img src="/images/NEAT-AMBIENCE-funder.png">
 
-![COSMOS Logo](/images/cosmos-logo.png)
+<img src="/images/cosmos-logo.png" width="30%">
 
+<img src="/images/PRIME-logo.png" width="20%">
 
 
