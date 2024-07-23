@@ -1,3 +1,5 @@
+<img src="/images/PRIME-logo.png" width="50%">
+
 # PRIME: Prediction of Response and Impact of Medical Efficacy
 
 In the NEAT-AMBIENCE project, we address the development of novel and appropriate data management techniques to assist citizens in their daily lives. One of our use cases is related to the health area. Here, we focus on the problem of predicting the efficacy of drugs. Thus, we tackle the development of data management techniques for drug efficiency prediction and decision making. 
@@ -17,7 +19,7 @@ In the NEAT-AMBIENCE project, we address the development of novel and appropriat
 
 ## Logos
 
-<img src="/images/NEAT-AMBIENCE-logo.png" width="30%"> <img src="/images/NEAT-AMBIENCE-funder.png" width="30%">
+<img src="/images/NEAT-AMBIENCE-logo.png" width="30%"> <img src="/images/NEAT-AMBIENCE-funder.png" width="50%">
 
 <img src="/images/cosmos-logo.png" width="30%">
 
