@@ -1,6 +1,6 @@
-# Data management for drug efficiency prediction and decision making
+# PRIME: Prediction of Response and Impact of Medical Efficacy
 
-In the NEAT-AMBIENCE project, we address the development of novel and appropriate data management techniques to assist citizens in their daily lives. One of our use cases is related to the health area. Here, we focus on the problem of predicting the efficacy of drugs.
+In the NEAT-AMBIENCE project, we address the development of novel and appropriate data management techniques to assist citizens in their daily lives. One of our use cases is related to the health area. Here, we focus on the problem of predicting the efficacy of drugs. Thus, we tackle the development of data management techniques for drug efficiency prediction and decision making. 
 
 ## Acknowledgments and funding
 
@@ -12,7 +12,7 @@ In the NEAT-AMBIENCE project, we address the development of novel and appropriat
 
 ## Websites
 
-- [TrafficDator](http://webdiis.unizar.es/~silarri/prot/drugPredictor/)
+- [PRIME](http://webdiis.unizar.es/~silarri/prot/PRIME/index.html)
 - [NEAT-AMBIENCE](http://webdiis.unizar.es/~silarri/NEAT-AMBIENCE/)
 
 ## Logos
