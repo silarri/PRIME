@@ -19,7 +19,7 @@ In the NEAT-AMBIENCE project, we address the development of novel and appropriat
 
 ## Logos
 
-<img src="/images/NEAT-AMBIENCE-logo.png" width="30%"> <img src="/images/NEAT-AMBIENCE-funder.png" width="50%">
+<img src="/images/NEAT-AMBIENCE-logo.png" width="30%"> <img src="/images/NEAT-AMBIENCE-logoAcks.jpg" width="50%">
 
 <img src="/images/cosmos-logo.png" width="30%">
 
